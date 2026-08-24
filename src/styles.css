@@ -20,6 +20,7 @@
 
 @theme inline {
   --font-display: var(--font-display);
+  --font-blackletter: var(--font-blackletter);
   --font-sans: var(--font-body);
   --color-success: var(--success);
   --color-success-foreground: var(--success-foreground);
